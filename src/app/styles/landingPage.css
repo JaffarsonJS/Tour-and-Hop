@@ -7,7 +7,7 @@
     gap: 121px;
 }
 .bannerDiv{
-    background: "linear-gradient(93deg, #1D7B83 0%, #287D5F 27.39%)";
-    display:"flex";
+    background: linear-gradient(93deg, #1D7B83 0%, #287D5F 27.39%);
+    display:flex;
     align-items: center;
 }

@@ -6,7 +6,7 @@ const Banner = () => {
         
     }
   return (
-    <div className='text-center flex flex-col justify-center items-center text-white p-[30px] gap-[32px] ' style={{borderRadius: '24px',
+    <div className='w-[569px] text-center flex flex-col justify-center items-center text-white p-[30px] gap-[32px] ' style={{borderRadius: '24px',
     background: 'rgba(134, 200, 196, 0.50)'}}>
       <h1 className='text-[32px] font-extrabold	'>Get Special Offers for Organizations</h1>
       <p className='text-lg	'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry`&apos`s standard dummy text ever since the 1500s.</p>

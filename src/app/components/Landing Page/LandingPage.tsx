@@ -7,7 +7,7 @@ import Banner from "./Sub-Components/Ad Banner/Banner";
 import ImageDiv from "./Sub-Components/Ad Banner/ImageDiv";
 import PackageTourHeadSec from "./Sub-Components/Tours Section/PackageTourHead";
 import TourDetaoilsBody from "./Sub-Components/Tours Section/TourDetaoilsBody";
-import "../../styles/landingPage.module.css";
+import "../../styles/landingPage.css";
 
 const LandingPage = () => {
   return (
@@ -34,7 +34,7 @@ const LandingPage = () => {
       </div>
 
       {/* AD BANNER */}
-      <div className="bannerDiv h-[452px] mt-[141px] ">
+      <div className="bannerDiv w-[1920px] h-[452px] mt-[141px] ">
         <div className="ml-[345px] mr-[314px] mb-[4rem] w-[569px] h-[317px]">
           <Banner />
         </div>
